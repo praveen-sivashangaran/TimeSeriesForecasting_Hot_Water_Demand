@@ -1,4 +1,4 @@
-# TimeSeriesForecasting_Hot_Water_Demand
+# Time-Series Forecasting of Hot Water Demand in Residential Complexes
 
 The objective of this project is to forecast the volume of hot water drawn from a geyser using the sensor
 measurements as the underlying data. Creating a robust model capable of accurately forecasting the
